@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of love and friendly advice to the ambassadors of the several princes of Europe met at Nimeguen to consult the peace of Christendom so far as they are concerned wherein the true cause of the present war is discovered and the right remedy and means for a firm and settled peace is proposed / by R. Barclay.</title>
+            <author>Barclay, Robert, 1648-1690.</author>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17486</idno><idno type="EEBO-CITATION">10789478</idno>
+  <idno type="VID">204801</idno>
+  <idno type="EEBO-PROQUEST">2248512084</idno>
+  
+            <idno type="STC">Wing B730</idno>
+            <idno type="OCLC">10789478</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204801)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1415:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of love and friendly advice to the ambassadors of the several princes of Europe met at Nimeguen to consult the peace of Christendom so far as they are concerned wherein the true cause of the present war is discovered and the right remedy and means for a firm and settled peace is proposed / by R. Barclay.</title>
+                  <author>Barclay, Robert, 1648-1690.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and sold by Benjamin Clark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>" ... delivered to them in Latin the 23d and 24th dayes of the month called February 1678/7 and now published in English for the satisfaction of such as understand not the language."</note>
+                  <note>Translation of Epistola amatoria nec non consultoria ad legatos magnatam Europæ.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Religious aspects.</term>
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204801:1"/>
+            <p>AN EPISTLE OF LOVE AND Friendly Advice, To the Ambassadors of the seve<g ref="char:EOLhyphen"/>ral Princes of <hi>Europe,</hi> met at <hi>Nime<g ref="char:EOLhyphen"/>guen</hi> to Consult the Peace of <hi>Chri<g ref="char:EOLhyphen"/>stendom,</hi> so far as they are concerned: Where<g ref="char:EOLhyphen"/>in the true Cause of the present War is dis<g ref="char:EOLhyphen"/>covered, and the right Remedy and Means for a firm and settled Peace is proposed.</p>
+            <p>By <hi>R. Barclay</hi> a Lover and Travailer for the Peace of <hi>Christendom.</hi>
+            </p>
+            <p>Which was delivered to them in <hi>La<g ref="char:EOLhyphen"/>tin</hi> the 23d. and 24th. dayes of the Month called <hi>February</hi> 1678/7. and now published in <hi>English</hi> for the satisfaction of such as under<g ref="char:EOLhyphen"/>stand not the Language,</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Psal. 2.10.</hi>
+                  </bibl> Be wise therefore ye Kings, be instructed ye Judges of the Earth, serve the Lord with fear, and re<g ref="char:EOLhyphen"/>joyce with trembling.</p>
+               <p>Kiss the son least he be angry, and ye perish from the way when his wrath is kindled but a little; blessed are all they that put their trust in him.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for, and Sold by <hi>Benjamin Clark</hi> in <hi>George-yard</hi> in <hi>Lumber-street</hi> Stationer. 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204801:2"/>
+            <pb n="1" facs="tcp:204801:2"/>
+            <head>To the Ambassadors and Depu<g ref="char:EOLhyphen"/>ties of the Christian Princes and States, met at <hi>Nimeguen,</hi> to Consult the Peace of <hi>Christen<g ref="char:EOLhyphen"/>dom, R. B.</hi> a Servant of Jesus Christ, and hearty wel-wisher to the <hi>Christian World,</hi> wishes increase of Grace and Peace, and the spirit of sound Judge<g ref="char:EOLhyphen"/>ment, with hearts inclined, and willing to receive and obey the Counsel of God.</head>
+            <p>LEt it not seem strange unto you, who are men chosen and authorized by the great <hi>Mo<g ref="char:EOLhyphen"/>narchs, and States of Europe,</hi> to find out a speedy remedy for the present great trouble, under which many of her Inhabitants do groan; as such whose Wisdom, and Prudence, and Abilities has so recommended
+<pb n="2" facs="tcp:204801:3"/>them to the World, as to be judged fit for so great and difficult a work) to be addressed unto by one, who by the World may be esteemed weak and foolish; whose advice is not ushered unto you, by the Commission of any of the Princes of this World, nor se<g ref="char:EOLhyphen"/>conded by the recommendation of any earthly state: For since your work is that which concerns all Christians, why may not every Christian who feels himself stir'd up of the Lord thereunto, contribute therein; and if they have place to be heard in this Affair, who come in the name of Kings and Princes, let it not seem heavy unto you, to hear him that comes in the name of the Lord Jesus Christ, who in the truest sense, <hi>is the head and governour and cheif Bishop of the Church, the most truly Christian and Catholick King:</hi> Many of whose Subjects are concerned in this matter, and the blood of many in ha<g ref="char:EOLhyphen"/>zard for whom he hath shed his <hi>preci<g ref="char:EOLhyphen"/>ous blood,</hi> and yet who shall not seek to obtrude upon you the beleif of the Truth or certainty of his Commission,
+<pb n="3" facs="tcp:204801:3"/>because of his own Testimony; but leave it, as well as the things he there<g ref="char:EOLhyphen"/>in delivereth, to the holy and pure witness of God, in all your Consci<g ref="char:EOLhyphen"/>ences, to be received or rejected by you, as it shall there be approved, or not approved.</p>
+            <p>Know then my Friends that many and often times my Soul has been deep<g ref="char:EOLhyphen"/>ly bowed down under the weighty sense of the present state of <hi>Christendom,</hi> and in secret before the Lord I have mourned, and bitterly lamented be<g ref="char:EOLhyphen"/>cause thereof: And as I was crossing the Sea, and being the last Summer in <hi>Holland,</hi> and some parts of <hi>Germany,</hi> the burthen thereof fell often upon me, and it several times came before me to write unto you what I then saw and felt from God of these things, while I was in those parts; but I waited and was not willing to be hasty, and now being returned to my own Country, and at my own Home: I cheerfully ac<g ref="char:EOLhyphen"/>cept the fit season which the Lord has put in my hand, and called me to there<g ref="char:EOLhyphen"/>in, to signifie unto you <hi>those things
+<pb n="4" facs="tcp:204801:4"/>which in his name and authority I am commanded to do.</hi>
+            </p>
+            <p>And for this end, the Lord has shewn me, what the causes are of all this mischeif, and confusion, and de<g ref="char:EOLhyphen"/>solation; which are necessary to be made known unto you, and deeply and seriously to be considered by you, else ye can never be able to apply the right remedies; I speak of the primary and original cause, as it proceeds from him, and is hatched by him, who is the Author of all mischief, and the great enemy to, as well as envyer of the true peace and prosperity of all good Chri<g ref="char:EOLhyphen"/>stians, and who sows in mens hearts, <hi>that evil seed and fomenteth that bad ground</hi> from which all evil ariseth; for unless this be seen, discovered, and re<g ref="char:EOLhyphen"/>moved in the ground, although the se<g ref="char:EOLhyphen"/>condary and more immediate causes be seen, (to wit) the projects, designs and councels of men, and in part be answered and removed, by giving way to some, and taking from others, accor<g ref="char:EOLhyphen"/>ding as they are more or less formidable and considerable, measuring these
+<pb n="5" facs="tcp:204801:4"/>things by the rules of humane wisdom, and carnal prudence and policy: Yet that is not sufficient, that may allay the heat for a time, but will not remove the evil; and you in so doing, will prove but like those Physitians, that do miti<g ref="char:EOLhyphen"/>gate the pain and violence of a Disease for a time, but do not take away the ground and cause of it; so that it short<g ref="char:EOLhyphen"/>ly again returns, and in the end de<g ref="char:EOLhyphen"/>stroys him that is afflicted with it.</p>
+            <p>The cheif ground, cause and root then of all this misery among all those called Christians, is because they are only such in <hi>Name,</hi> and not in <hi>Nature,</hi> having only a form and profession of Christianity in shew and words, but are still strangers, yea and enemies to the life and vertue of it; owning God and Christ in words, but denying them in works, and therefore the Lord Jesus Christ will not own them as his Chil<g ref="char:EOLhyphen"/>dren nor Disciples; for while they say they are his followers, while they preach and exalt his precepts, while they extol his life, patience, and meek<g ref="char:EOLhyphen"/>ness, his self-denying perfect resignati<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:204801:5"/>and obedience to the will of his Fa<g ref="char:EOLhyphen"/>ther; yet themselves are out of it, and so bring shame and reproach to that honourable name, which they as<g ref="char:EOLhyphen"/>sume to themselves in the face of the Nations, and give an occasion for In<g ref="char:EOLhyphen"/>fidels <hi>Turks, Jews</hi> and <hi>Atheists,</hi> to pro<g ref="char:EOLhyphen"/>fane and blaspheme the holy Name of Jesus: Is it not so? While so much <hi>ambition, pride, vanity, wantonness and malice, murder, cruelty and oppression,</hi> yea and all manner of abominations a<g ref="char:EOLhyphen"/>bounds, and is openly practiced; yea while those, that should be patterns and examples of Justice, Vertue and sobriety to others, do for the most part exceed most in those things; so that the Courts of Christian Princes (who while in words seem more to glory in being Pro<g ref="char:EOLhyphen"/>fessors and Protectors of Christianity then in their outward Crowns) which should be <hi>Colledges of Vertue and Piety,</hi> are mostly Scenes of greatest wicked<g ref="char:EOLhyphen"/>ness, and nests and receptacles of all the <hi>Buffoons, Stage-players, and other vilest Vermine,</hi> not fit to be mentioned. I say is it not so? while upon every
+<pb n="7" facs="tcp:204801:5"/>slender praetext, <hi>such as their own small discontents, or that they judge the pre<g ref="char:EOLhyphen"/>sent peace they have with their neigh<g ref="char:EOLhyphen"/>bour, cannot sute with their Grandeur and worldly glory:</hi> They sheath their Swords in one anothers bowels, ruin, waste and destroy whole Countreys, expose to the greatest misery many thousand Families, make thousands of Widows, and ten thousands of Orphans cause the banks to over-flow with the blood of those for whom the Lord Jesus Christ shed his precious blood, spend and destroy many of the good crea<g ref="char:EOLhyphen"/>tures of God: And all this while they pretend to be followers of the Lamb like Jesus, who came not to destroy mens lives, but to save them; the song of whose appearance to the World, <hi>was glory to God in the highest,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 2.14.</note>
+               <hi>and good will, and peace to all men;</hi> not to kill, murder and destroy men, not to hire and force poor men, to run upon, and murder one ano<g ref="char:EOLhyphen"/>ther, meerly to satisfy the lust and ambition of great men, they being
+<pb n="8" facs="tcp:204801:6"/>oftentimes ignorant of the ground of the quarrel, and not having the least occasion of evil will or prejudice against those their fellow Christians whom they thus kill, amongst whom not one of a thousand perhaps ever saw be<g ref="char:EOLhyphen"/>fore, Yea is it not so? that there is only a <hi>name and nothing of the true na<g ref="char:EOLhyphen"/>ture of Christians,</hi> especially manifest in the <hi>Clergy,</hi> who pretend not only to be Professors, but Preachers, Pro<g ref="char:EOLhyphen"/>motors and Exhorters of others to Christianity, who for the most part, are the greatest promoters and advan<g ref="char:EOLhyphen"/>cers of those Wars; and by whom upon all such occasions, the name of God and Jesus Christ, is most hor<g ref="char:EOLhyphen"/>ribly abused, profaned and blasphe<g ref="char:EOLhyphen"/>med. <hi>While they dare pray to God, and thank him for the destruction of of their Brethren Christians,</hi> and that for, and against, according to the changeable wills of their several Princes: Yea, so that some will joyn in their Prayers, with and for the prosperity of such, as their profession obliges them to believe to be Heretical and An<g ref="char:EOLhyphen"/>tichristian,
+<pb n="9" facs="tcp:204801:6"/>and for the destruction of those, whom the same profession ac<g ref="char:EOLhyphen"/>knowledges to be good and Orthodox Christians: <hi>Thus the</hi> French, <hi>both</hi> Pa<g ref="char:EOLhyphen"/>pists <hi>and</hi> Protestants, <hi>joyn in their Prayers, and rejoyce for the destruction of the</hi> Spanish Papists <hi>and</hi> Dutch Pro<g ref="char:EOLhyphen"/>testants; <hi>the like may be said of the</hi> Danish, Swedish <hi>and</hi> German Pro<g ref="char:EOLhyphen"/>testants, <hi>as respectively concerned in this matter:</hi> Yea which is yet more strange, if either constraint or Interest, do engage any Prince or State to change his Party, while the same War and Cause remains, then will the Clergy presently accommodate their Prayers to the case in praying for prosperity to those to whom instantly before they wished ruine, and so on the con<g ref="char:EOLhyphen"/>trary, as in this present War, <hi>in the Case of the Bishop of</hi> Munster <hi>is manifest:</hi> Was there ever? or can there be any more horrible profanation of the holy and pure name of God? espe<g ref="char:EOLhyphen"/>cially to be done by those, who pre<g ref="char:EOLhyphen"/>tend to be Worshipers of the true God, and Disciples of Jesus Christ?
+<pb n="10" facs="tcp:204801:7"/>this not only equals, but far exceeds the wickedness of the Heathens, for they only prayed such Gods to their assistance, as they fancied allow their ambition, and accounted their warring a vertue, whom they judged chang<g ref="char:EOLhyphen"/>able like themselves, and subject to such quarrels among themselves, as they that are their Worshippers: But for those to be found in these things, who believe there is but one only God, and have or at least profess to have, such notions of his <hi>justice, equity and mercy,</hi> and of the certainty of his pun<g ref="char:EOLhyphen"/>nishing the transgressors of his Law, is so horrible and abominable, as can<g ref="char:EOLhyphen"/>not sufficiently be neither said, nor written.</p>
+            <p>The ground then of all this, <hi>is the want of true Christianity,</hi> because the nature of it is not be gotten nor brought forth in those called Christians, and therefore they bear not the image nor bring not forth the fruits of it; for al<g ref="char:EOLhyphen"/>beit they have the name, yet the na<g ref="char:EOLhyphen"/>ture they are strangers to, the Lambs nature is not in them, but the Doggish
+<pb n="11" facs="tcp:204801:7"/>nature, the Wolfish Nature, that will still be quarelling and destroying; the cunning Serpentine subtile nature, and the proud ambitious <hi>Luciferian</hi> nature, that sets Princes and States a work to contrive and foment Wars, and engages people to fight together, some for am<g ref="char:EOLhyphen"/>bition and vain glory, and some for coveteousness and hope of gain, and the same cause doth move the Clergy to concurre with their share in making their prayers turn and twine, and so all are here out from the state of true Christianity: And as they keep the name of being Christians, so also upon the same pretext each will pre<g ref="char:EOLhyphen"/>tend to be for peace, while their fruits manifestly declare the contrary; and how hath and doth experience daily discover this deceit? for how is peace brought about? is it not when the weaker is forced to give way to the stronger, without respect to the equity of the cause, is it not Just so as a<g ref="char:EOLhyphen"/>mong the wilde and devouring beasts? who when they Fight together, the weaker is forced to give way to the
+<pb n="12" facs="tcp:204801:8"/>stronger, and so desist until another occasion offer; so who are found weak<g ref="char:EOLhyphen"/>est, who are least capable to hold out, they must bear the Inconveniency, and he gets the most advantage, how<g ref="char:EOLhyphen"/>ever frivolous, yea unjust his pretence be, who is most able to vindicate his claim, and preserve it, not by Equity, but force of Arms: So that the peace-contrivers rule is not the <hi>Equity of the Cause,</hi> but <hi>the power of the Parties;</hi> Is not this known and manifest in many, if not most of the pacifications that have been made in Christendom? It is therefore in my heart, <hi>in the name and behalf of the Lord Jesus CHrist,</hi> to warn you to consider of those things: And therefore be not unwilling to hear one, that appears among you, for the In<g ref="char:EOLhyphen"/>terest of Christ <hi>his King and Master</hi> (not as if thereby he denyed the just Au<g ref="char:EOLhyphen"/>thority of <hi>Soveraign Princes,</hi> or refused to acknowledge the Subjection him<g ref="char:EOLhyphen"/>self owes <hi>to his lawful Prince and Su<g ref="char:EOLhyphen"/>periour,</hi> or were any ways inclined to favour the dreams of such, as under the pretence of crying up King Jesus; and
+<pb n="13" facs="tcp:204801:8"/>the kingdom of Christ,
+<note place="margin">Which calumny some have been apt to throw up<g ref="char:EOLhyphen"/>on us, by reason of some in those Countreys that have so affirmed.</note> either deny or seek to overturn all Civil Go<g ref="char:EOLhyphen"/>vernment) nay, not at all. But I am one, who do reverence and honor Ma<g ref="char:EOLhyphen"/>gistracy, and acknowledge subjecti<g ref="char:EOLhyphen"/>on due unto them, by their re<g ref="char:EOLhyphen"/>spective people in all things just and lawful; knowing <hi>that Magistracy is an Ordi<g ref="char:EOLhyphen"/>nance of God,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 13.1.4.</note>
+               <hi>and that Magistrates are his Ministers, who bear not the Sword in vain.</hi> Yet never<g ref="char:EOLhyphen"/>theless I judge it no prejudice to Ma<g ref="char:EOLhyphen"/>gistracy, nor injury to any, for one that is called of the Lord Jesus, to appear for him in this affair, for he is not a little concerned, as all by their confession, so by right are his Sub<g ref="char:EOLhyphen"/>jects (unless they wilfully render themselves to another, even to the ad<g ref="char:EOLhyphen"/>versary) for he is Heir of all, and there<g ref="char:EOLhyphen"/>fore it is fit that they who speak in his name be heard, for his honor and glo<g ref="char:EOLhyphen"/>ry is concerned, <hi>his Authority has been contemned, his Laws broken, his Life
+<pb n="14" facs="tcp:204801:9"/>oppressed, his Standard of peace pulled down and rent, his Government in<g ref="char:EOLhyphen"/>croached upon: What shall I say, his precious blood shed, and himself afresh crucified, and put to open shame,</hi> by the Murthers and Cruelties that have at<g ref="char:EOLhyphen"/>tended those Wars: If then ye come not under a deep and weighty sense of those things, so as to apply your selves to seek after some effectual way to remedy these evils; however you may seek to please Princes and States, by patching up a reconciliation and troubling your selves to satisfie their covetous and ambitious wills, who make such a noise and stir in the World <hi>about their glory,</hi> and do not mind the glory and honour of the Lord Jesus Christ, so as to give him the right that is due unto him: In the first place, not in a bare sound of words (he will not accept of such a Complement while the evil works remain,) <hi>I testifie in his name and Power and Authority,</hi> your work will be imperfect, and not pro<g ref="char:EOLhyphen"/>sperous; for although these Kings and Princes that are now at varience, may
+<pb n="15" facs="tcp:204801:9"/>be by your means brought to lay down Arms, and appear to be good friends, and dear allies: Yet unless the Lord Jesus Christ can be restored to his king<g ref="char:EOLhyphen"/>dom in their hearts, and that evil ground of ambition, of pride, and lust, and vain glory be removed, that so they may rule in the wisdom and power of God, and not according to their Lusts, that evil ground and devouring nature being still alive, and predominant in them, will quickly stir some of them up again so soon as opportunity offers fit for their advantage; they will kindle the flame again, and all your Articles will not bind them, but they will break them like strawes; and their Coun<g ref="char:EOLhyphen"/>sellers who flatter them, and seek to please them, will quickly find out a pretext for a breach, such as have taught them these hellish maxims, <hi>Qui nescit dissimulare nescit regnare,</hi> i. e. <hi>that such as make Conscience to lye, or serve the Devil; But to obey Christ, are not fit to rule, and that Kings must not be slaves to their words:</hi> And perhaps if they find it difficult to hit upon any
+<pb n="16" facs="tcp:204801:10"/>probable ground or pretence, if they judge themselves strong enough, they will neither trouble themselves, nor the world to give a reason, but tell, <hi>that to be at peace is no longer consistant with their glory, and when they have brought about what they have determined, they will let the World know the reason of it.</hi> Hath not manifold experience proved those things to be true, and seeing it is so, there is, nor can no settled, firm established peace be brought to <hi>Chri<g ref="char:EOLhyphen"/>stendom,</hi> until the Devils Kingdom be rooted out of mens hearts, from which <hi>Wars come,</hi>
+               <note place="margin">
+                  <hi>Jam.</hi> 4.1, 7.</note> as the Apostle <hi>James</hi> testi<g ref="char:EOLhyphen"/>fies, and the Kingdom of Jesus came to be established in the hearts of Kings, and Princes, and People, whose Kingdom, is <hi>a Kingdom of righteousness, and peace, and joy in the Holy Spirit;</hi> until he come to rule in and among them, and his ene<g ref="char:EOLhyphen"/>mies, <hi>(viz.)</hi> every evil Lust be thrown out from him, so that his Heavenly wisdom may take place, <hi>which is pure,</hi>
+               <note place="margin">
+                  <hi>Jam.</hi> 3.17.</note>
+               <hi>and peaceable, and easie to be intreated,</hi>
+               <pb n="17" facs="tcp:204801:10"/>And therefore to bring this about, is the one and great thing needful to be minded and considered of and effectu<g ref="char:EOLhyphen"/>ally to be pressed after, as that by the accomplishing whereof the present evils can alone be cured and removed.</p>
+            <p>Therefore be not mistaken, neither receive your selves, to think ye can accomplish this work by your worldly and humane wisdom; the wisdom of the flesh will not do it, neither that of the first birth, which must dye, and be crucified, e're the Heavenly wisdom, <hi>the beginning whereof is the fear of the Lord,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 1.7.</note> be reavea<g ref="char:EOLhyphen"/>led, by which alone this work can both be truly begun and fi<g ref="char:EOLhyphen"/>nished, for the worldly and carnal wisdom is the cause of the War; It is by it that men have been, and are stirred up to it, even the wisdom of the first fleshly Birth, which leads men not to be content with their own, but to covet their neighbours, and to quarrel and fight in hopes of advantage: There<g ref="char:EOLhyphen"/>fore that wisdom which is the cause of the mischief, will, nor can, never cure
+<pb n="18" facs="tcp:204801:11"/>it; try and examine your selves there<g ref="char:EOLhyphen"/>fore seriously, in the sight of God whether you be led, acted and influ<g ref="char:EOLhyphen"/>enced in your present Negotiation, by the wisdom of this World, the wisdom of the first Birth, which is sensual, di<g ref="char:EOLhyphen"/>velish, and from below, <hi>or by the heavenly and pure wisdom of God,</hi>
+               <note place="margin">
+                  <hi>Jam.</hi> 3.17.</note> which is from above, and is the fruit of the se<g ref="char:EOLhyphen"/>cond Birth, the new Birth by Christ Jesus, formed and brought forth in the Soul, and the Light of Jesus Christ in you, which showes you all your thoughts, <hi>and has reproved every one of you for your unrighteousness, even from your childhood up,</hi> that will manifest un<g ref="char:EOLhyphen"/>to you, if you mind it, and heed it which wisdom you are acted by, and discover to you, whether it be your thoughts and purposes to glorifie God over all, and to remove so far as in you lyes, what is contrary to his holy and pure will, and whether you be more concerned for the particular In<g ref="char:EOLhyphen"/>terest, and Interests of your several Princes, to satisfie or obviate their de<g ref="char:EOLhyphen"/>signs,
+<pb n="19" facs="tcp:204801:11"/>or to bring about that, by which Gods holy witness in every Conscience may be answered, and the pure life of Jesus, that by these doings the oppres<g ref="char:EOLhyphen"/>sed, may be eased, and suffered to arise: For if this be little in your minds, as a thing not much regarded, but neglected by you, I must intimate to you <hi>in the name of the Lord,</hi> that your work will not be blessed by him, neither will it prosper; for although you may make peace for a time, yet (as I have afore<g ref="char:EOLhyphen"/>said) it will not be firm, nor of any long continuance, but the old root still remaining, will send forth its evil fruit again, and all your labour will quickly be undone.</p>
+            <p>Let me exhort you then seriously to examine your selves by the Light of Jesus Christ in you, that can alone discover unto you your own hearts, and will not flatter you (as men may) whether you be fit for this work you are set about, which you cannot be until you have seriously applyed your selves, to the killing and crucifying of that nature in your selves, from which
+<pb n="20" facs="tcp:204801:12"/>all this evil flows, if the warring part be removed out of you, and the cor<g ref="char:EOLhyphen"/>rupted wisdom done away, and the peaceable wisdom brought up, then are you fit to consult and bring about the peace of <hi>Christendom;</hi> but this can<g ref="char:EOLhyphen"/>not be accomplished in you, until you have first believed in the light of Je<g ref="char:EOLhyphen"/>sus Christ, wherewithall you, as well as all men are inlightned, and which is given you as a sufficient guide and leader, to lead out of darkness, to lead out of strife, to lead out of the lusts,
+<note place="margin">
+                  <hi>Jam.</hi> 4.1.</note> from which the Wars come? Unto the ways of righteousness and peace, which leads not to destroy, but to love, and forgive enemies; it is the minding of this, and being led and guided by it, that only can fit you for so great and good a work, for this is the fruit of the fathers love to mankind, and the gift of God even Christ Jesus, who was given <hi>for a light to en<g ref="char:EOLhyphen"/>lighten the Gentiles,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 49.6. <hi>Luc.</hi> 2.32.</note>
+               <hi>and for his Salvation unto the ends of the earth;</hi> so it is by tur<g ref="char:EOLhyphen"/>ning
+<pb n="21" facs="tcp:204801:12"/>to this, and following it, and obey<g ref="char:EOLhyphen"/>ing it, in which is sufficiency, and which gives power to the receivers of it to be<g ref="char:EOLhyphen"/>come the Sons of God,
+<note place="margin">
+                  <hi>Joh.</hi> 1.12.</note> that the true nature of Christianity can be brought forth, and restored, and by which Kings and Princes, Rulers and people, may be brought out of Lust, Envy, Warring and Strife, to true peace with God, and one with another.</p>
+            <p>And therefore the cause of all the mischief that is in Christendom, is be<g ref="char:EOLhyphen"/>cause this Light has not been minded nor regarded in the heart, but has been hated and overlooked, as a low and in<g ref="char:EOLhyphen"/>sufficient thing; and therefore the seed of the Kingdom, this gift of the Fathers Love, this little Leaven, this pearl of great prize; and this Talent be<g ref="char:EOLhyphen"/>ing hid in the ground, condemned and despised, and the world and wordly mind being set over it, notwithstan<g ref="char:EOLhyphen"/>ding all the preaching, and praying, and professing of Christ in words, that has been only one outward show and appearance by which men might the
+<pb n="22" facs="tcp:204801:13"/>more easily be deceived, and live more securely in their wickedness; but the <hi>innocent life of Christ</hi> hath not been known, and all <hi>Christendom</hi> has brought forth bitter and sower grapes under all their talk and forms of Worship, and not <hi>the sweet and peaceable fruits of righteousness,</hi> which can never be brought untill all come to him, to the Light of Christ in their Consciences, to follow and obey it, and acknowledge it as that which is given them of God, and sufficient to lead them to Life and Salvation; for as this is thus received and entertained, the true nature of Christ will be begotten, and brought forth in people; and then the contrary nature in which the enmity and strife is, will die and pass away, and so Truth and peace will come to be settled, and firmly established. And for this end <hi>the Lord God Almighty is arisen,</hi> and arising in his own power and glory (who out of his infinite compassion, having regard to the present distracted and desolate condition of Christen<g ref="char:EOLhyphen"/>dom) is seeing them strangers to his Life
+<pb n="23" facs="tcp:204801:13"/>and power, and led and guided at will to the utter ruine and destruction both of Body and Soul by the adversary of mandkinds true happiness, that he might reveal the Light of his Truth, even of true Christianity, to those who have the name only, and hath turned many who are strangers and enemies thereunto in their minds by wicked works, to this precious Light, by which <hi>judgment has been laid to the line,</hi>
+               <note place="margin">
+                  <hi>Esa.</hi> 28.17. <hi>Mat.</hi> 12.20.</note>
+               <hi>and righteous<g ref="char:EOLhyphen"/>ness to the plummet in them,</hi> and the evil works and nature in them has been judg<g ref="char:EOLhyphen"/>ed, and condemned; and they have willingly abode under it, until it hath <hi>been brought forth to victory in them.</hi> And many of them who have been wise according to the wisdom of the World, have learned to lay it down at the feet of Jesus, that they might receive from him of his Pure and Hea<g ref="char:EOLhyphen"/>venly wisdom, being contented in the enjoyment of that, by the World to be accounted fools, and also many of them who were Fighters, and even renow<g ref="char:EOLhyphen"/>ned
+<pb n="24" facs="tcp:204801:14"/>for their Skil and Valour in War<g ref="char:EOLhyphen"/>ring, have come by the influence of this pure Light, <hi>To beat their Swords in Plough-shares,</hi>
+               <note place="margin">
+                  <hi>Esa.</hi> 2.4.</note>
+               <hi>and their Spears in pruning-hooks, and not learn Carnal War any more,</hi> be<g ref="char:EOLhyphen"/>ing redeemed from the Lusts from which the Fighting comes; and there are thousands whom God hath brought here already, who see to the end of all contention and strife, and that for which the World contends; and al<g ref="char:EOLhyphen"/>beit the Devil be angry at them, and rage against them in the meer Nominal and Literal Christians, because he knows they stricke at the very root and foundation of his Kingdom in mens hearts, and therefore he prevails in his followers, to wit, in these Literal No<g ref="char:EOLhyphen"/>minal Christians, to persecute, kill, beat, bannish and imprison, and many ways vex them: Yet because the Lord has chosen them to be a first fruit of that glorious work, which he is bringing about in the Nations; therefore they hitherto have, notwithstanding of all that opposition, and yet shall prosper,
+<pb n="25" facs="tcp:204801:14"/>by a patient enduring, in the Spirit of Jesus, they do, and shall overcome.</p>
+            <p>And therefore there is nothing can so much tend to the good and univer<g ref="char:EOLhyphen"/>sal Peace of Christendom, then for all and every one, to mind this gift of God in themselves, and not only to suffer, but to rejoyce at the preach<g ref="char:EOLhyphen"/>ing and promulgating of the universa<g ref="char:EOLhyphen"/>lity of this glorious Light, whereunto God is now calling many, for the re<g ref="char:EOLhyphen"/>sisting and slaying of this in themselves, as well as in those who come in the name of God to declare it, is the cause of all the mischief, that Christendom labours under, so also its being received and taking place, would remove and do it away.</p>
+            <p>Be not therefore easily ingaged by the enemy, to slight and reject those things, as foolish and weak, and too low for you to consder, or give place unto; for thereby the enemy always laboured to vail and darken the coun<g ref="char:EOLhyphen"/>sel of God; and hindred it from being received by men:
+<note place="margin">1 <hi>King.</hi> 2.8.</note> Thus the King of
+<pb n="26" facs="tcp:204801:15"/>
+               <hi>Israel</hi> despised the Counsel of <hi>Micah,</hi> at the instigation of his mocking Pro<g ref="char:EOLhyphen"/>phets; but remember that you profess to be followers of Jesus,
+<note place="margin">
+                  <hi>Luc.</hi> 21.2.</note> who was loaded with many roproaches,
+<note place="margin">
+                  <hi>Mat.</hi> 27.20.</note> ac<g ref="char:EOLhyphen"/>counted a disturber; and to whom <hi>Barrabbas</hi> a Mur<g ref="char:EOLhyphen"/>derer was preferred by the counsel and advice of the wise Rabbies,
+<note place="margin">
+                  <hi>Job.</hi> 18.40.</note> and great Professors among the <hi>Jews,</hi> and remember that you profess your selves to be owners of that Gospel, whose first and chief Ministers and Preachers were accounted foolish and and Illiterate men, mo<g ref="char:EOLhyphen"/>vers of Sedition,
+<note place="margin">
+                  <hi>Act.</hi> 2.7 4.13.17.18.19.26.21.28.24.56.25.7.</note> Idle Bab<g ref="char:EOLhyphen"/>blers, and turners of the World upside down, and therefore be not easily frighted by these, and such like reports, and reproaches, from hearing those whom God hath called and chosen, that in and amongst them he may be glorified; and by them, may restore that in reality in the so called Christian World, which for several
+<pb n="27" facs="tcp:204801:15"/>generations they have only had the shadow of, but have not enjoyed in the substance: And because many are the calumnies that such are reproached withall, as holding forth strange and pernicious Doctrines: Therefore I have herewith sent you a large Apology for the true Christian Divinity held forth, and preached by them, that therein you may see how the truly Christian principles, which have been lost in the Apostacy, while the life of Chri<g ref="char:EOLhyphen"/>stianity was not to be found, is re<g ref="char:EOLhyphen"/>stoared by their Testimony, desiring you seriously to read and consider the same, as well as transmit it to the se<g ref="char:EOLhyphen"/>veral Princes you are employed by, that both you and they may see, <hi>That the day of the Lord is dawned, and may learn to walk in the light of it, which would bring peace and quietness and fe<g ref="char:EOLhyphen"/>licity to all, both outward and inward;</hi> and thereby all may be stirred up to receive with gladness, such as the Lord will move to preach and declare this day, as it is dawned and made mani<g ref="char:EOLhyphen"/>fest in them, following the Apostles
+<pb n="28" facs="tcp:204801:16"/>rules, <hi>In receiving strangers willingly,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 13.2.</note>
+               <hi>for that some in so doing have entertained Angels unawares:</hi> And that none of you may be like the <hi>Pharisees,</hi> who cryed Crucifie him; nor like those who intreated him to depart out of their Coasts; and like those who would have none of him to rule over them, least with them, ye receive the like condemnation: However I shall be clear of all your Blood, in so far as I have faithfully answered what God re<g ref="char:EOLhyphen"/>quired of me towards you, and dis<g ref="char:EOLhyphen"/>charged my Conscience in love to your Immortal Souls, as well as to the common peace and good of <hi>Christen<g ref="char:EOLhyphen"/>dom;</hi> whereof, and of all those that profess the name of Christ, I am a true friend and hearty well wisher.</p>
+            <closer>
+               <signed>Robert Barclay.</signed>
+               <dateline>This came upon me from the Lord to Write unto you, at <hi>Ʋry</hi> in my Native Country of <hi>Scotland,</hi>
+                  <date>the second of the Month called <hi>November,</hi> 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="conclusion">
+            <pb n="29" facs="tcp:204801:16"/>
+            <p>COpies of the foresaid Epistle in <hi>Latine,</hi> were upon the 23d. and and 24th. days of the Month called <hi>February</hi> 1678. delivered at <hi>Nimeguen</hi> to the Ambassadors of the Emperor, of the Kings of <hi>Great Brittain, Spain</hi> and <hi>France, Swede</hi> and <hi>Denmark,</hi> of the Prince Elector <hi>Palatine;</hi> as also of the <hi>States-General,</hi> and of the Duke of <hi>Lorain, Holstain, Lunenburg, Osnaburg, Hanover,</hi> and the Popes <hi>Nuncio,</hi> to wit, one to each Ambassador, and one to each of their Principles, toge<g ref="char:EOLhyphen"/>ther with so many Copies of the Book whereof the Author makes mention in the Letter, the Title whereof is,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="title_page">
+                        <p>Roberti Barclaii <hi>Theologiae verae Christianae Apologia</hi> Carolo <hi>secundo Magnae Bri<g ref="char:EOLhyphen"/>tanniae,</hi> &amp;c. <hi>Regi oblata.</hi>
+                        </p>
+                        <p>
+                           <hi>Typis excusa</hi> 1676. <hi>pro</hi> Ja<g ref="char:EOLhyphen"/>cob Claus, <hi>Bibliopola habi<g ref="char:EOLhyphen"/>tate</hi> Amstellodami <hi>veneunt preterea.</hi>
+                        </p>
+                        <p>
+                           <hi>Robert Barclay</hi> his Apolo<g ref="char:EOLhyphen"/>gy for true Christian Divi<g ref="char:EOLhyphen"/>nity, offered to <hi>Charles</hi> the Second, King of <hi>Great Bri<g ref="char:EOLhyphen"/>tain.</hi>
+                        </p>
+                        <p>Printed 1676. for <hi>Jacob Claus,</hi> Bookseller at <hi>Amster<g ref="char:EOLhyphen"/>dam,</hi> and are to be Sold
+<list>
+                              <item>Londini</item>
+                              <item>Roterodami</item>
+                              <item>Francofurti</item>
+                              <item>Haga Com.</item>
+                              <item>Middelburgi</item>
+                           </list> apud
+<list>
+                              <item>
+                                 <hi>Benjamin Clark.</hi>
+                              </item>
+                              <item>
+                                 <hi>Isaacum Naeranum</hi> op het Steyger,</item>
+                              <item>and</item>
+                              <item>
+                                 <hi>Jan Pietersz</hi> Groenwout op het Speuy</item>
+                              <item>
+                                 <hi>Henricum Betszinum.</hi>
+                              </item>
+                              <item>
+                                 <hi>Jacob Dante</hi> Abdezael</item>
+                              <item>
+                                 <hi>Jacob Noenaurt</hi>
+                              </item>
+                           </list>
+                        </p>
+                        <p>And in divers other places.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="30" facs="tcp:204801:17"/>
+            <head>BOOKS Sold by <hi>Benjamin Clark</hi> in <hi>George-yard Lumber-street.</hi>
+            </head>
+            <p>
+               <hi>THe true Christ own'd, as he is true and perfect God and Man,</hi> by <hi>George Keith;</hi> Being an Answer to a Book; called, <hi>The Quakers Creed,</hi> Written by a Nameless Author, in Answer to a Book; called, <hi>The Way cast up, or the Stumbling-stone removed.</hi>
+            </p>
+            <p>
+               <hi>The Principles of the</hi> Papists, <hi>by which their Leaders put them upon Bloody and Treacherous Practices, plainly demonstra<g ref="char:EOLhyphen"/>ted by the Scriptures to be most Erroneous and Wicke,</hi> By William Tomlinson.</p>
+            <pb facs="tcp:204801:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
